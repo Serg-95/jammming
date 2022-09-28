@@ -1,0 +1,3 @@
+for jamming project(https://create-playlists.surge.sh/):
+
+https://developer.spotify.com/dashboard/applications
